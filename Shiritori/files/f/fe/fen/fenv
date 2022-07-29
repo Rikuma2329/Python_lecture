@@ -1,0 +1,1 @@
+fenv - ライブラリコールの説明。feclearexcept, fegetexceptflag, feraiseexcept, fesetexceptflag,。

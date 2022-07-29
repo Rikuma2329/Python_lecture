@@ -1,0 +1,1 @@
+cmsg - ライブラリコールの説明。CMSG_ALIGN, CMSG_SPACE, CMSG_NXTHDR, CMSG_FIRSTHDR - 補助データにアクセスする。
